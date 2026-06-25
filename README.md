@@ -11,8 +11,8 @@ cd /my/software/folder/gift/GroupICAT/icatb && find . -iname "\*.mexmaca64" -exe
 1. [Introduction](#secIntro)
 2. [Download](#secDownload)
 3. [NeuroMark](#secNM)
- 1. fMRI
- 2. guyg 
+	1. fMRI
+	2. guyg 
 5. [GIFT BIDS-Apps](#secBids)
 6. [Screen Shots](#secScreen)
 7. [Version Compatability](#verComp)
