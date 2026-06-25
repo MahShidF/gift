@@ -45,13 +45,13 @@ GIFT is an application, originally supported by NIH grant 1RO1 EB000840 to Dr. V
 ### NeuroMark <a name="secNM"></a>
 **GroupICAT**  - Download latest version by clicking the green code button on the upper right on this page and then clone the software using the link and the git clone command in your terminal. Current version of Group ICA. Requires MATLAB R2008a and higher.
 #### fMRI <a name="secNM1"></a>
-This is for fMRI [Click here to download the templates](https://github.com/trendscenter/gift/blob/master/doc/neuromark/fMRI.md)
+This is for fMRI [Click here to download the templates](doc/neuromark/fMRI.md)
 
 #### Structural <a name="secNM2"></a>
-This is for T1, Diffusion [Click here to download the templates](https://github.com/trendscenter/gift/blob/master/doc/neuromark/structural.md)
+This is for T1, Diffusion [Click here to download the templates](doc/neuromark/structural.md)
 
 #### Positron Emission Tomography (PET) <a name="secNM3"></a>
-This is for PET [Click here to download the templates](https://github.com/trendscenter/gift/blob/master/doc/neuromark/PET.md)
+This is for PET [Click here to download the templates](doc/neuromark/PET.md)
 
 ### GIFT BIDS-Apps <a name="secBids"></a>
 If you have your data in BIDS format or you want to run GIFT under a cluster you may want to our GIFT BIDS-Apps [gift-bids](https://github.com/trendscenter/gift-bids). 
