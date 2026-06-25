@@ -34,6 +34,13 @@ GIFT is an application, originally supported by NIH grant 1RO1 EB000840 to Dr. V
 **GroupICAT**  - Download latest version by clicking the green code button on the upper right on this page and then clone the software using the link and the git clone command in your terminal. Current version of Group ICA. Requires MATLAB R2008a and higher.
 ### NeuroMark <a name="secNM"></a>
 **GroupICAT**  - Download latest version by clicking the green code button on the upper right on this page and then clone the software using the link and the git clone command in your terminal. Current version of Group ICA. Requires MATLAB R2008a and higher.
+#### fMRI <a name="secNM1"></a>
+Mancovan toolbox is based on the paper (E. Allen, E. Erhardt, E. Damaraju, W. Gruner, J. Segall, R.
+Silva, M. Havlicek, S. Rachakonda, J. Fries, R.Kalyanam, A. Michael, J. Turner, T. Eichele, S.
+
+#### hgfjyt <a name="secNM2"></a>
+[Click here for EEGIFT documentation](https://trends-public-website-fileshare.s3.amazonaws.com/public_website_files/software/eegift/docs/v1.0c_EEGIFT_Walk_Through.pdf)
+
 #### Stand Alone Versions
 [**Windows 64**](https://trends-public-website-fileshare.s3.amazonaws.com/public_website_files/software/gift/software/stand_alone/GroupICATv4.0c_standalone_Win64.zip) - Compiled on Windows 64 bit OS and MATLAB R2020a. Please see read me text file for more details.\
 [**Linux-x86-64**](https://trends-public-website-fileshare.s3.amazonaws.com/public_website_files/software/gift/software/stand_alone/GroupICATv4.0.3.3_standalone_Linux_x86_64.zip) - Compiled on Linux-x86-64 bit OS and MATLAB R2016b. Please see read me text file for more details.\
