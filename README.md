@@ -11,8 +11,9 @@ cd /my/software/folder/gift/GroupICAT/icatb && find . -iname "\*.mexmaca64" -exe
 1. [Introduction](#secIntro)
 2. [Download](#secDownload)
 3. [NeuroMark](#secNM)
-	1. fMRI
-	2. guyg 
+	1. [fMRI](#secNM1)
+	2. [Structural](#secNM2)
+ 	3. [Positron Emission Tomography (PET)](#secNM3)
 5. [GIFT BIDS-Apps](#secBids)
 6. [Screen Shots](#secScreen)
 7. [Version Compatability](#verComp)
@@ -32,14 +33,6 @@ GIFT is an application, originally supported by NIH grant 1RO1 EB000840 to Dr. V
 
 ### Downloads <a name="secDownload"></a>
 **GroupICAT**  - Download latest version by clicking the green code button on the upper right on this page and then clone the software using the link and the git clone command in your terminal. Current version of Group ICA. Requires MATLAB R2008a and higher.
-### NeuroMark <a name="secNM"></a>
-**GroupICAT**  - Download latest version by clicking the green code button on the upper right on this page and then clone the software using the link and the git clone command in your terminal. Current version of Group ICA. Requires MATLAB R2008a and higher.
-#### fMRI <a name="secNM1"></a>
-Mancovan toolbox is based on the paper (E. Allen, E. Erhardt, E. Damaraju, W. Gruner, J. Segall, R.
-Silva, M. Havlicek, S. Rachakonda, J. Fries, R.Kalyanam, A. Michael, J. Turner, T. Eichele, S.
-
-#### hgfjyt <a name="secNM2"></a>
-[Click here for EEGIFT documentation](https://trends-public-website-fileshare.s3.amazonaws.com/public_website_files/software/eegift/docs/v1.0c_EEGIFT_Walk_Through.pdf)
 
 #### Stand Alone Versions
 [**Windows 64**](https://trends-public-website-fileshare.s3.amazonaws.com/public_website_files/software/gift/software/stand_alone/GroupICATv4.0c_standalone_Win64.zip) - Compiled on Windows 64 bit OS and MATLAB R2020a. Please see read me text file for more details.\
@@ -48,6 +41,17 @@ Silva, M. Havlicek, S. Rachakonda, J. Fries, R.Kalyanam, A. Michael, J. Turner, 
 [**Mancovan Sample Data**](https://trends-public-website-fileshare.s3.amazonaws.com/public_website_files/software/gift/data/mancova_sample_data.zip) - Sample data to use in mancovan analysis or temporal dfnc analysis.
 
 [**Complex GIFT**](https://trends-public-website-fileshare.s3.amazonaws.com/public_website_files/software/gift/software/GroupICATv2.0d_complex.zip) - ICA is applied on complex fMRI data. Please follow the read me text file instructions for doing complex fMRI ICA analysis.
+
+### NeuroMark <a name="secNM"></a>
+**GroupICAT**  - Download latest version by clicking the green code button on the upper right on this page and then clone the software using the link and the git clone command in your terminal. Current version of Group ICA. Requires MATLAB R2008a and higher.
+#### fMRI <a name="secNM1"></a>
+This is for fMRI [Click here to download the templates](https://github.com/trendscenter/gift/blob/master/doc/neuromark/fMRI.md)
+
+#### Structural <a name="secNM2"></a>
+This is for T1, Diffusion [Click here to download the templates](https://github.com/trendscenter/gift/blob/master/doc/neuromark/structural.md)
+
+#### Positron Emission Tomography (PET) <a name="secNM3"></a>
+This is for PET [Click here to download the templates](https://github.com/trendscenter/gift/blob/master/doc/neuromark/PET.md)
 
 ### GIFT BIDS-Apps <a name="secBids"></a>
 If you have your data in BIDS format or you want to run GIFT under a cluster you may want to our GIFT BIDS-Apps [gift-bids](https://github.com/trendscenter/gift-bids). 
