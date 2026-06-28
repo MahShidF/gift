@@ -53,6 +53,9 @@ This is for T1, Diffusion [Click here to download the templates](doc/neuromark/s
 #### Positron Emission Tomography (PET) <a name="secNM3"></a>
 This is for PET [Click here to download the templates](doc/neuromark/PET.md)
 
+#### Diffusion MRI (dMRI/ FA map) <a name="secNM4"></a>
+This is for PET [Click here to download the templates](doc/neuromark/dMRI.md)
+
 ### GIFT BIDS-Apps <a name="secBids"></a>
 If you have your data in BIDS format or you want to run GIFT under a cluster you may want to our GIFT BIDS-Apps [gift-bids](https://github.com/trendscenter/gift-bids). 
 
